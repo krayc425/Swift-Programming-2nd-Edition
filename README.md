@@ -1,5 +1,5 @@
-# Swift_Programming_2nd_Edition
-Exercises and Demos for <Swift Programming> 2nd Edition.
+# Swift Programming 2nd Edition
+Exercises and Demos for __Swift Programming 2nd Edition__.
 
 Written in `Swift 4` and `Xcode 9`.
 
