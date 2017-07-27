@@ -78,8 +78,7 @@ for value in myStack {
     print("after pushing items onto stack: got \(value)")
 }
 
-myStack.filter { $0 % 2 == 1 }
-for value in myStack {
+for value in myStack.filter({ $0 % 2 == 0 }) {
     print("after filtering items: got \(value)")
 }
 
